@@ -110,7 +110,7 @@ You need to have npm installed.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/vinivst/Token.git
+   git clone https://github.com/vinivst/bankchain.git
    ```
 2. Install NPM packages in project ("backend")
    ```sh
